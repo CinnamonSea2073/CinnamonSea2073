@@ -92,7 +92,7 @@ Sponsor by<br>
 
 <img class="column sp-3-4 my" style="margin: 0.5rem 0;" alt="Servers" src="server_tokyo.svg" />
 
-### Ishikari
+### Ishikari Region
 
 Powered by @nikawamikan
 
