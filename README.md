@@ -22,17 +22,17 @@ Hi! Thanks for coming by to look at the markdown files! (Easter egg-ish message)
 限界高校生香辛料です。<br>
 フロントエンドが大好きです。<br>
 リポジトリは基本的に非公開です。<br><br>
-主に動画を作る仕事をしています。
+動画とかを作る仕事をしています。
 
 <br>
 
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20world!"></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" style="border-radius: 10px; width: 100%;" src="https://typograssy.deno.dev/api?l1=DF9CFF&l2=C883FF&l3=B46DFC&l4=8451C5&l5=6B4196&text=しなもんは”ひらかな”です!! "></a>
 
 ## Organization
 - CinnamonWorks - Operator<br>
-開発+運営+デザインチーム / Product DevOps and Design Team
+運営+開発+デザイン / Product DevOps and Design
 - Shahu.ski - Staff<br>
-Shahu.ski (Misskey) 運営チーム / Misskey Instance Operation Team
+Shahu.ski (Misskey) 運営 / Misskey Instance Operation
 
 ## Links
 - Portfolio - [cinnamon.works](https://cinnamon.works)
@@ -60,25 +60,21 @@ This Mail address is used only first contact
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=postgres,sqlite,redis" /><br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=unreal" /><br>
 
-### infrastructure / System
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=cloudflare,nginx" /><br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=docker,linux" /><br>
-
 ### Others
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=discord,bots,github,gitlab,notion,obsidian,replit,vscode" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=discord,bots,github,gitlab,notion,obsidian,replit,vscode,docker" /><br>
 <br>
 
 ### Beginner
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=ae,rust,ts,dart,tensorflow,flutter,tauri,selenium,misskey,androidstudio,aws,raspberrypi" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=rust,ts,dart,tensorflow,flutter,tauri,selenium,misskey,androidstudio,aws,raspberrypi,cloudflare,nginx" /><br>
 
-### Intrast
+### Intarst
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=cpp,go,java,lua,php,swift,react,threejs,unity,kubernetes,sentry,workers,arduino" /><br>
 
 ## Servers
 
-### Tokyo Region
+### 東京 / Tokyo Region
 
-Powered by @CinnamonSea2073
+Powered by [@CinnamonSea2073](https://github.com/CinnamonSea2073)
 <br><br>
 
 Sponsor by<br>
@@ -94,9 +90,9 @@ Sponsor by<br>
 
 <img class="column sp-3-4 my" style="margin: 0.5rem 0;" alt="Servers" src="server_tokyo.svg" />
 
-### Ishikari Region
+### 石狩 / Ishikari Region
 
-Powered by @nikawamikan
+Powered by [@nikawamikan](https://github.com/nikawamikan)
 
 <img class="column sp-3-4 my" alt="Servers" style="margin: 0.5rem 0;" src="server_ishikari.svg" />
 
