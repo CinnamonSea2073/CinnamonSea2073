@@ -96,3 +96,9 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 
 <img class="column sp-3-4 my" alt="Servers" style="margin: 0.5rem 0;" src="server_ishikari.svg" />
 
+## Qiita
+
+以下のリストは定期的に自動更新されます！
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
