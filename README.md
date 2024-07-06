@@ -10,7 +10,7 @@ Hi! Thanks for coming by to look at the markdown files! (Easter egg-ish message)
 
 -->
 
-<img style="box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.50);" alt="profile_in_cinnamon_works" style="margin: 0.5rem 0;" src="profile_card_cinnamonworks.png" />
+<img style="box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 1); border-radius: 20px;" alt="profile_in_cinnamon_works" style="margin: 0.5rem 0;" src="profile_card_cinnamonworks.png" />
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=CinnamonSea2073" />
@@ -52,23 +52,23 @@ This Mail address is used only first contact
 ## Skills
 
 ### Arts
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=blender,figma " />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=blender,figma " />
 
 ### Language / Framework / Database / Engine
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,js,py,vue" /><br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=django,electron,fastapi,flask,vite,tailwind" /><br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=postgres,sqlite,redis" /><br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=unreal" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=html,css,js,py,vue" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=django,electron,fastapi,flask,vite,tailwind" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=postgres,sqlite,redis" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=unreal" /><br>
 
 ### Others
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=discord,bots,github,gitlab,notion,obsidian,replit,vscode,docker" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=discord,bots,github,gitlab,notion,obsidian,replit,vscode,docker" /><br>
 <br>
 
 ### Beginner
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=rust,ts,dart,tensorflow,flutter,tauri,selenium,misskey,androidstudio,aws,raspberrypi,cloudflare,nginx" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=rust,ts,dart,tensorflow,flutter,tauri,selenium,misskey,androidstudio,aws,raspberrypi,cloudflare,nginx" /><br>
 
 ### Intarst
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=cpp,go,java,lua,php,swift,react,threejs,unity,kubernetes,sentry,workers,arduino" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=cpp,go,java,lua,php,swift,react,threejs,unity,kubernetes,sentry,workers,arduino" /><br>
 
 ## Servers
 
