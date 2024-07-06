@@ -26,7 +26,7 @@ Hi! Thanks for coming by to look at the markdown files! (Easter egg-ish message)
 
 <br>
 
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" style="border-radius: 10px; width: 100%;" src="https://typograssy.deno.dev/api?l1=DF9CFF&l2=C883FF&l3=B46DFC&l4=8451C5&l5=6B4196&text=しなもんは”ひらかな”です!! "></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" style="border-radius: 10px; width: 100%;" src="https://typograssy.deno.dev/api?l1=DF9CFF&l2=C883FF&l3=B46DFC&l4=8451C5&l5=6B4196&text=しなもんは”ひらかな”です!!"></a>
 
 ## Organization
 - CinnamonWorks - Operator<br>
