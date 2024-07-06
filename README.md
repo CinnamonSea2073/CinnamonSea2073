@@ -103,4 +103,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】プロパティの便利な使い方5選](https://qiita.com/CinnamonSea2073/items/f14fe8f39e8c9fe13519)
+- [コレを読めば理解できる！const、let、varの違い](https://qiita.com/CinnamonSea2073/items/1ffe792b025d878cbda6)
+- [ユーザーかOrganizationが記事が投稿したらDiscordに通知する](https://qiita.com/CinnamonSea2073/items/68abbce0c377a19beedb)
+- [jQueryは時代遅れなのか？](https://qiita.com/CinnamonSea2073/items/d31e1b366da5b1d94126)
 <!-- BLOG-POST-LIST:END -->
