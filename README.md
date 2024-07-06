@@ -26,7 +26,6 @@ Hi! Thanks for coming by to look at the markdown files! (Easter egg-ish message)
 
 <br>
 
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" style="border-radius: 10px;" src="https://typograssy.deno.dev/api?l1=DF9CFF&l2=C883FF&l3=B46DFC&l4=8451C5&l5=6B4196&text=しなもんは”ひらかな”です!!"></a>
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?l1=DF9CFF&l2=C883FF&l3=B46DFC&l4=8451C5&l5=6B4196&text=%0D%0A%E3%81%97%E3%81%AA%E3%82%82%E3%82%93%E3%81%AF%E2%80%9D%E3%81%B2%E3%82%89%E3%81%8B%E3%81%AA%E2%80%9D%E3%81%A7%E3%81%99%21%21"></a>
 
 ## Organization
