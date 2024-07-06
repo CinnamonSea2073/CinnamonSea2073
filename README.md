@@ -10,9 +10,11 @@ Hi! Thanks for coming by to look at the markdown files! (Easter egg-ish message)
 
 -->
 
-<img style="box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 1); border-radius: 20px;" alt="profile_in_cinnamon_works" style="margin: 0.5rem 0;" src="profile_card_cinnamonworks.png" />
+<img alt="profile_in_cinnamon_works" style="margin: 0.5rem 0;" src="cinnamonworks_card_v2.png" />
+
 
 <div align="right">
+　illustration by <br>
   <img src="https://komarev.com/ghpvc/?username=CinnamonSea2073" />
 </div>
 
