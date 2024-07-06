@@ -14,7 +14,6 @@ Hi! Thanks for coming by to look at the markdown files! (Easter egg-ish message)
 
 
 <div align="right">
-　illustration by <br>
   <img src="https://komarev.com/ghpvc/?username=CinnamonSea2073" />
 </div>
 
