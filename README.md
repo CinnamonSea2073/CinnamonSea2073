@@ -10,6 +10,8 @@ Hi! Thanks for coming by to look at the markdown files! (Easter egg-ish message)
 
 -->
 
+<img style="box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.50);" alt="profile_in_cinnamon_works" style="margin: 0.5rem 0;" src="profile_card_cinnamonworks.png" />
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=CinnamonSea2073" />
 </div>
