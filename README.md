@@ -68,7 +68,7 @@ This Mail address is used only first contact
 ### Beginner
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=rust,ts,dart,tensorflow,flutter,tauri,selenium,misskey,androidstudio,aws,raspberrypi,cloudflare,nginx" /><br>
 
-### Intarst
+### interest
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=cpp,go,java,lua,php,swift,react,threejs,unity,kubernetes,sentry,workers,arduino" /><br>
 
 ## Servers
