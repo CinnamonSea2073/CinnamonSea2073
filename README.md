@@ -102,8 +102,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
+- [高校で何が起こってるのか？高校生が業界の皆さんへ伝えたいライフプラン](https://qiita.com/CinnamonSea2073/items/20eb68a86fd4dbb6be27)
 - [Claudeは数分でガチWebアプリが作れるらしい](https://qiita.com/CinnamonSea2073/items/19efaf979419854d1515)
 - [Qiitaの記事をGithubのREADMEに掲載して定期更新する](https://qiita.com/CinnamonSea2073/items/d4ac68932a565de070b7)
 - [GPT-4しか知らないあなたの知識はもう古いらしい](https://qiita.com/CinnamonSea2073/items/892f2e46d97c30ccaa5b)
-- [【Python】プロパティの便利な使い方5選](https://qiita.com/CinnamonSea2073/items/f14fe8f39e8c9fe13519)
 <!-- BLOG-POST-LIST:END -->
