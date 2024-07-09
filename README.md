@@ -102,8 +102,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
+- [Pythonのimportを理解する](https://qiita.com/CinnamonSea2073/items/47b37e5611d9d5296d2d)
 - [PycordでCogsを使うと定期実行などの裏技を便利に管理できる](https://qiita.com/CinnamonSea2073/items/e5eab15e2db90335e0ad)
 - [高校で何が起こってるのか？高校生が業界の皆さんへ伝えたいライフプラン](https://qiita.com/CinnamonSea2073/items/20eb68a86fd4dbb6be27)
 - [Claudeは数分でガチWebアプリが作れるらしい](https://qiita.com/CinnamonSea2073/items/19efaf979419854d1515)
-- [Qiitaの記事をGithubのREADMEに掲載して定期更新する](https://qiita.com/CinnamonSea2073/items/d4ac68932a565de070b7)
 <!-- BLOG-POST-LIST:END -->
