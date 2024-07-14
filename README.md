@@ -102,8 +102,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
+- [なぜターミナルはCtrl+Cで終了するのか？](https://qiita.com/CinnamonSea2073/items/7fe7c13d6a6265a78472)
 - [レストラン料理人から学ぶチームコミュニケーション](https://qiita.com/CinnamonSea2073/items/0931bd85f43d64a7e27d)
 - [Pythonで厳密な型付けをするということはどういう事なのか](https://qiita.com/CinnamonSea2073/items/c7056da67d3833843863)
 - [「Pythonのドキュメントでも読むか～」「え、何その裏技」](https://qiita.com/CinnamonSea2073/items/cec093f5a9298aadcdc1)
-- [git以外のバージョン管理ツール4選](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
 <!-- BLOG-POST-LIST:END -->
