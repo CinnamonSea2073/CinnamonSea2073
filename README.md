@@ -102,8 +102,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
+- [Pythonで厳密な型付けをするということはどういう事なのか](https://qiita.com/CinnamonSea2073/items/c7056da67d3833843863)
 - [「Pythonのドキュメントでも読むか～」「え、何その裏技」](https://qiita.com/CinnamonSea2073/items/cec093f5a9298aadcdc1)
 - [git以外のバージョン管理ツール4選](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
 - [理論上最も分かりやすいQiita記事を書く方法](https://qiita.com/CinnamonSea2073/items/7b93530a403a72165798)
-- [循環importに関するエラー解決方法をまとめたけど、そもそも循環importするな](https://qiita.com/CinnamonSea2073/items/233c012ce93a58bad5bb)
 <!-- BLOG-POST-LIST:END -->
