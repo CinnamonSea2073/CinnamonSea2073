@@ -48,6 +48,24 @@ Shahu.ski (Misskey) 運営 / Misskey Instance Operation
 - Mail - CinnamonSea2073@tutanota.com <br>
 This Mail address is used only first contact
 
+## History
+### 2022
+- 原神ステータスBot リリース
+
+### 2023
+- GPA2023「Memevo」一次選考通過
+- XembedBot リリース
+- MV「DISTOPIA」 映像制作
+- ポートフォリオサイト 制作
+- Cover「D.I.Y」 映像制作
+
+### 2024
+- 某写真展 入選<br>
+地理的&情報的な理由により、詳細は非公開。
+- 校内プロジェクト「せせ塾」 デザイン, プログラム全般担当
+- 未踏ジュニア2024「Yumecord」 企画書提出
+- PV「shahu.ski 1st Anniversary」 映像制作
+
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Skills
@@ -102,8 +120,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
-- [「Python標準ライブラリのドキュメントでも読むか～」「え、何その裏技」](https://qiita.com/CinnamonSea2073/items/2cae34c3dd7ff86d0950)
-- [なぜターミナルはCtrl+Cで終了するのか？](https://qiita.com/CinnamonSea2073/items/7fe7c13d6a6265a78472)
-- [レストラン料理人から学ぶチームコミュニケーション](https://qiita.com/CinnamonSea2073/items/0931bd85f43d64a7e27d)
-- [Pythonで厳密な型付けをするということはどういう事なのか](https://qiita.com/CinnamonSea2073/items/c7056da67d3833843863)
+- [GPT-4しか知らないあなたの知識はもう古いらしい](https://qiita.com/CinnamonSea2073/items/892f2e46d97c30ccaa5b)
+- [【Python】プロパティの便利な使い方5選](https://qiita.com/CinnamonSea2073/items/f14fe8f39e8c9fe13519)
+- [コレを読めば理解できる！const、let、varの違い](https://qiita.com/CinnamonSea2073/items/1ffe792b025d878cbda6)
+- [ユーザーかOrganizationが記事が投稿したらDiscordに通知する](https://qiita.com/CinnamonSea2073/items/68abbce0c377a19beedb)
 <!-- BLOG-POST-LIST:END -->
