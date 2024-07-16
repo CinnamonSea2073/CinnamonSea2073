@@ -120,8 +120,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
+- [約3週間で38記事を書いて思ったこと【Qiita Engineer Festa 2024 感想前編】](https://qiita.com/CinnamonSea2073/items/52e558363a4f3c3dbe57)
 - [【意外と使える】Claudeで資料用の図を一瞬で作る](https://qiita.com/CinnamonSea2073/items/49dec83af8f2e4117e5b)
 - [「Python標準ライブラリのドキュメントでも読むか～」「え、何その裏技」](https://qiita.com/CinnamonSea2073/items/2cae34c3dd7ff86d0950)
 - [なぜターミナルはCtrl+Cで終了するのか？](https://qiita.com/CinnamonSea2073/items/7fe7c13d6a6265a78472)
-- [レストラン料理人から学ぶチームコミュニケーション](https://qiita.com/CinnamonSea2073/items/0931bd85f43d64a7e27d)
 <!-- BLOG-POST-LIST:END -->
