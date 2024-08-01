@@ -66,6 +66,7 @@ This Mail address is used only first contact
 - 未踏ジュニア2024「Yumecord」 企画書提出
 - PV「shahu.ski 1st Anniversary」 映像制作
 - Qiita Engineer Festa 2024 全 38 記事完走  
+- Qiita Engineer Festa 2024 Organization対抗戦 10名以下部門 優勝
 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
