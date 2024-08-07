@@ -123,8 +123,8 @@ Powered by [@nikawamikan](https://github.com/nikawamikan)
 以下のリストは定期的に自動更新されます！
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Intelligenceから学ぶLLMプロンプトエンジニアリング](https://qiita.com/CinnamonSea2073/items/5192231ad5425c9c4b2e)
 - [いろんな意味で話題のCrowdstrikeって何？](https://qiita.com/CinnamonSea2073/items/a8c0190b0d266fad92e8)
 - [数万人のコミュニティに、確実に情報を伝えるために。【個人開発】](https://qiita.com/CinnamonSea2073/items/bfb31b760898a919b669)
 - [約3週間で38記事を書いて思ったこと【Qiita Engineer Festa 2024 感想前編】](https://qiita.com/CinnamonSea2073/items/52e558363a4f3c3dbe57)
-- [【意外と使える】Claudeで資料用の図を一瞬で作る](https://qiita.com/CinnamonSea2073/items/49dec83af8f2e4117e5b)
 <!-- BLOG-POST-LIST:END -->
